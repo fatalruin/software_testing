@@ -1,8 +1,6 @@
 import unittest
 import calc
 
-import requests
-
 class Test_000_Calculator(unittest.TestCase):
 
     def test_single_digit(self):
